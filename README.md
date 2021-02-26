@@ -183,9 +183,9 @@ Publish the website in the given URL.
 
 ## VALIDATION REPORT
 
-![output](./static/img/v1.png)
+![output](./static/img/r1.png)
 
-![output](./static/img/v2.png)
+![output](./static/img/r2.png)
 
 
 ## RESULT:
