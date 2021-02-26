@@ -189,4 +189,4 @@ Publish the website in the given URL.
 
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://kumaravel.student.saveetha.in:8000/.
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://suganya.student.saveetha.in:8000/.
